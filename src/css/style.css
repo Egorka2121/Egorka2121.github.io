@@ -75,6 +75,7 @@ nav{
     font-size: 35px;
     line-height: 108px
     color: #263244;
+    font-weight: bold;
     
 }
     .main2{
@@ -82,7 +83,6 @@ nav{
     height: calc(100% - 60px);
     background: url(../img/3213123.jpg) 50% 30%/auto 50% no-repeat;
 }
-
 .title__container2 p{
     margin: 27px 0px 0px 60px;
     text-align: center;
@@ -111,10 +111,64 @@ nav{
     font-size: 35px;
     line-height: 104px;
     color: #263244;
+    font-weight: bold;
 }
 .main4{
-   padding: 0px 499px
+    float:left;
+    text-align: center;
+    width: 300px;
         
+}
+.main4 h3{
+    margin-top: 35px;
+    color: #cf7600;
+    font-weight: bold;
+    font-size: 20px;
+}
+.main4 p{
+    margin-top: 20px;
+}
+.main5{
+     float:left;
+    text-align: center;
+    width: 300px;
+}
+.main5 h3{
+     margin-top: 35px;
+    color: #cf7600;
+    font-weight: bold;
+    font-size: 20px;
+}
+.main5 p{
+    margin-top: 20px;
+}
+.main6{
+    float:left;
+    text-align: center;
+    width: 300px;
+}
+.main6 h3{
+     margin-top: 35px;
+    color: #cf7600;
+    font-weight: bold;
+    font-size: 20px;
+}
+.main6 p{
+    margin-top: 20px;
+}
+.main7{
+    float:left;
+    text-align: center;
+    width: 300px;
+}
+.main7 h3{
+     margin-top: 35px;
+    color: #cf7600;
+    font-weight: bold;
+    font-size: 20px;
+}
+.main7 p{
+    margin-top: 20px;
 }
 .main8 h2{
     height: 222px;
@@ -122,6 +176,7 @@ nav{
     font-size: 30px;
     line-height: 104px;
     color: #263244;
+    font-weight: bold;
 }
 .main8 span{
     padding: 640px;
@@ -149,9 +204,16 @@ nav{
 .main10 p{
     padding-left: 388px;
     margin-top: 15px;
-    
-    
-}
+ }   
+.main16 h3{
+    padding-left: 388px;
+    margin-top: 50px;
+    height: 40px;
+    text-align: left;
+    border: 4px solid #63b5ae;
+    background: none;
+}   
+
 .main11 h4{
     color: #384354;
     padding-left: 674px;
@@ -177,4 +239,146 @@ nav{
     margin-top: 59px;
     font-size: 18px;
     font-weight: bold;
+}
+.main17{
+     width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/fon33.jpg) center/cover no-repeat;
+    
+}
+.main17 h2{
+    height: 222px;
+    text-align: center;
+    font-size: 35px;
+    line-height: 104px;
+    color: #263244;
+    font-weight: bold;
+}
+.main18{
+    float:left;
+    text-align: center;
+    width: 300px;
+}
+.main18 h3{
+     margin-top: 35px;
+    color: #323e4f;
+    font-weight: bold;
+    font-size: 25px;
+}
+.main18 p{
+    color: #323e4f;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.main19{
+    float:left;
+    text-align: center;
+    width: 300px;
+}
+.main19 h3{
+     margin-top: 35px;
+    color: #323e4f;
+    font-weight: bold;
+    font-size: 25px;
+}
+.main19 p{
+    color: #323e4f;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.main20{
+    float:left;
+    text-align: center;
+    width: 300px;
+}
+.main20 h3{
+     margin-top: 35px;
+    color: #323e4f;
+    font-weight: bold;
+    font-size: 25px;
+}
+.main20 p{
+    color: #323e4f;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.main21{
+    float:left;
+    text-align: center;
+    width: 300px;
+}
+.main21 h3{ 
+    margin-top: 35px;
+    color: #323e4f;
+    font-weight: bold;
+    font-size: 25px;
+}
+.main21 p{
+    color: #323e4f;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.main22 h2{
+    height: 98px;
+    text-align: center;
+    font-size: 35px;
+    line-height: 104px;
+    color: #243042;
+    font-weight: bold;
+}
+.main22 p{
+    margin-top: 40px;
+    text-align: center;
+}
+.main22 input{
+    margin-top: 50px;
+}
+.main23{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/fon2.jpg) center/cover no-repeat;
+}
+.main23 h2{
+    height: 222px;
+    text-align: center;
+    font-size: 35px;
+    line-height: 104px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.main23 p{
+    text-align: center;
+    color: #ffffff;
+}
+.main24{
+    float: left;
+    text-align: center;
+    width: 300px;
+    color: #ffffff;
+}
+.main24 p{
+    margin-top: 20px;
+}
+.main25{
+    color: #ffffff;
+    float: left;
+    text-align: center;
+    width: 300px;
+}
+.main25 p{
+    margin-top: 20px;
+}
+.main26{
+    color: #ffffff;
+    float: left;
+    text-align: center;
+    width: 300px;
+}
+.main26 p{
+    margin-top: 20px;
+}
+.main27 h3{
+    margin-top: 30px;
 }
