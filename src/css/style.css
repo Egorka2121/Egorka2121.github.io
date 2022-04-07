@@ -128,6 +128,9 @@ nav{
 .main4 p{
     margin-top: 20px;
 }
+.little__container4{
+    margin: left;
+}
 .main5{
      float:left;
     text-align: center;
@@ -141,6 +144,9 @@ nav{
 }
 .main5 p{
     margin-top: 20px;
+}
+.little__container5{
+    margin-left: 789px;
 }
 .main6{
     float:left;
@@ -194,19 +200,20 @@ nav{
     
     
 }
-.main10 h5{
+.main9 h5{
     color: #384354;
     padding-left: 388px;
     margin-top: 17px;
     font-size: 20px;
     font-weight: bold;
 }
-.main10 p{
+.main9 p{
     padding-left: 388px;
     margin-top: 15px;
  }   
-.main16 h3{
-    padding-left: 388px;
+.main9 h3{
+    float: left;
+    padding: 25px;
     margin-top: 50px;
     height: 40px;
     text-align: left;
@@ -379,6 +386,4 @@ nav{
 .main26 p{
     margin-top: 20px;
 }
-.main27 h3{
-    margin-top: 30px;
-}
+
