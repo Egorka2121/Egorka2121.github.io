@@ -128,8 +128,8 @@ nav{
 .main4 p{
     margin-top: 20px;
 }
-.little__container4{
-    margin: left;
+.newClass{
+    margin-left: 350px;
 }
 .main5{
      float:left;
@@ -187,6 +187,9 @@ nav{
 .main8 span{
     padding: 640px;
 }
+.main9{
+    float: left;
+}
 .main9 h5{
     color: #384354;
    font-size: 20px;
@@ -212,13 +215,18 @@ nav{
     margin-top: 15px;
  }   
 .main9 h3{
+    margin-left: 388px;
     float: left;
     padding: 25px;
     margin-top: 50px;
     height: 40px;
-    text-align: left;
+    text-align: center;
     border: 4px solid #63b5ae;
-    background: none;
+    background-color: #63b5ae ;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
 }   
 
 .main11 h4{
@@ -235,7 +243,7 @@ nav{
 .main12 h2{
     color: #1c2534;
     padding-left: 807px;
-    margin-top: 100px;
+    margin-top: 279px;
     font-size: 28px;
     font-weight: bold;
     
@@ -276,6 +284,9 @@ nav{
     color: #323e4f;
     margin-top: 30px;
     font-weight: bold;
+}
+.newClass2{
+    margin-left: 350px;
 }
 .main19{
     float:left;
@@ -344,8 +355,8 @@ nav{
 }
 .main23{
     width: 100%;
-    height: calc(100% - 60px);
     background: url(../img/fon2.jpg) center/cover no-repeat;
+    
 }
 .main23 h2{
     height: 222px;
@@ -360,6 +371,7 @@ nav{
     color: #ffffff;
 }
 .main24{
+    margin-top: 35px;
     float: left;
     text-align: center;
     width: 300px;
@@ -368,7 +380,11 @@ nav{
 .main24 p{
     margin-top: 20px;
 }
+.newClass3{
+    margin-left: 500px;
+}
 .main25{
+    margin-top: 35px;
     color: #ffffff;
     float: left;
     text-align: center;
@@ -378,6 +394,7 @@ nav{
     margin-top: 20px;
 }
 .main26{
+    margin-top: 35px;
     color: #ffffff;
     float: left;
     text-align: center;
@@ -386,4 +403,32 @@ nav{
 .main26 p{
     margin-top: 20px;
 }
-
+.main27{
+    color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+    
+}
+.main30{
+    margin-top: 30px;
+    margin-left: 494px;
+    line-height: 50px;
+    height: 58px;
+    background: none;
+}
+.main31{
+    margin-left: 494px;
+    margin-top: 65px;
+    font-size: 20px;
+    color: #1c2534;
+    
+}
+.main32{
+    margin-left: 494px;
+    margin-top: 24px;
+    font-size: 20px;
+    color: #1c2534;
+}
+.main33 input{
+    text-align: center;
+}
