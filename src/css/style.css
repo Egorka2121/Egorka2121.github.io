@@ -373,7 +373,6 @@ nav{
 }
 .main24{
     margin-top: 35px;
-    height: 150px;
     float: left;
     text-align: center;
     width: 300px;
@@ -436,4 +435,7 @@ nav{
 }
 .main27 h3{
    
+}
+.main100{
+    height: 150px;
 }
