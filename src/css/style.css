@@ -355,7 +355,7 @@ nav{
 }
 .main23{
     width: 100%;
-    height: 700px;
+    height: 800px;
     background: url(../img/fon2.jpg) center/cover no-repeat;
     
 }
@@ -430,12 +430,30 @@ nav{
     font-size: 20px;
     color: #1c2534;
 }
-.main33 input{
-    text-align: center;
-}
-.main27 h3{
-   
-}
 .main100{
     height: 150px;
+}
+.main33 input{
+    color: #5d5d5e; 
+    margin: 30px 15px 0px 15px;
+    padding: 0px 80px;
+    height: 29px;
+    background-color: #d8dce2;
+}
+.main27 textarea{
+    color: #5d5d5e;
+    margin-top: 15px;
+    background-color: #d8dce2;
+}
+.main23 h4{
+    margin: 0px 880px;
+    float: center;
+    height: 30px;
+    margin-top: 38px;
+    text-align: center;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 20px;
+    background: none;
 }
