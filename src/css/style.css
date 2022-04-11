@@ -411,12 +411,14 @@ nav{
     
 }
 .main30 select{
-    
+    color: #909090;
     margin-top: 30px;
     margin-left: 494px;
     line-height: 50px;
     height: 58px;
-    background: none;
+    background: #eeeeee;
+    width: 754px;
+    font-weight: bold;
    
 }
 .main31{
