@@ -678,6 +678,15 @@ main{
     transform: scale(1.1);
 }
 
+.main9 h3{
+    transition: all 0.3s;
+    transform: scale(1);
+}
+
+.main9 h3:active{
+    transform: scale(1.1);
+}
+
 .main27 h4{
     transition: all 0.3s;
     transform: scale(1);
