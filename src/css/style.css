@@ -11,13 +11,13 @@ nav {
 
 .logo {
     color: #fff;
-    font-size: 25px;
+    font-size: 28px;
     line-height: 60px;
-    padding-left: 388px;
     float: left;
     -webkit-animation: comming 2s ease;
     -o-animation: comming 2s ease;
     animation: comming 2s ease;
+    font-family: Franklin Gothic, sans-serif;
 }
 
 main{
@@ -26,8 +26,6 @@ main{
 }
 .menu {
     float: left;
-    padding-left: 432px;
-
 }
 
 .menu li{
@@ -35,7 +33,7 @@ main{
     line-height: 60px;
     color: #fff;
     margin-right: 40px;
-    font-size: 16px;
+    font-size: 14px;
     text-transform: uppercase;
     -webkit-animation: aaa 0.4s ease forwards;
     -o-animation: aaa 0.4s ease forwards;
@@ -576,6 +574,7 @@ main{
     color: white;
     transform: scale(1);
     display: inline-block;
+    text-decoration: none;
 }
 
 .menu li a:visited {
