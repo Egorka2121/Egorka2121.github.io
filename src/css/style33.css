@@ -408,9 +408,6 @@ main {
     padding: 640px;
 }
 
-.main9 {
-    float: left;
-}
 
 .main9 h5 {
     color: #384354;
@@ -442,7 +439,6 @@ main {
 
 .main9 h3 {
     margin-left: 388px;
-    float: left;
     padding: 25px;
     margin-top: 50px;
     height: 40px;
